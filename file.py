@@ -1,5 +1,6 @@
-with open("file.txt","w")as f:
-    f.write("Abcd xyz")
+#file handling
+# with open("file.txt","w")as f:
+#     f.write("Abcd xyz")
 
 with open("file.txt",'r') as f1:
     b = f1.read()
