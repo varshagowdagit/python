@@ -1,0 +1,2 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value user-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text standard_user in WebElement with locator value user-name using locatorType id

@@ -1,0 +1,2 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value inventory_container using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:130 WebElement is Displayed on web page with locator value inventory_container using locatorType id

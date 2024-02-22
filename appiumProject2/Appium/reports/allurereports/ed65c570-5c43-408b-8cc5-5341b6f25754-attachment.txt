@@ -1,0 +1,3 @@
+[32mINFO    [0m __init__:BasePage.py:67 clicked on Element found with locator type: text with locator value: ADD TO BAG
+[32mINFO    [0m __init__:BasePage.py:67 clicked on Element found with locator type: text with locator value: L
+[32mINFO    [0m __init__:BasePage.py:148 Tap gesture performed at coordinates: (363, 1418)

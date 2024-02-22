@@ -1,0 +1,20 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-bike-light using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-bike-light using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:145 Scrolled to WebElement with locator value add-to-cart-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:145 Scrolled to WebElement with locator value add-to-cart-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-onesie using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:145 Scrolled to WebElement with locator value add-to-cart-sauce-labs-onesie using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-onesie using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-onesie using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-test.allthethings()-t-shirt-(red) using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:145 Scrolled to WebElement with locator value add-to-cart-test.allthethings()-t-shirt-(red) using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-test.allthethings()-t-shirt-(red) using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-test.allthethings()-t-shirt-(red) using locatorType id

@@ -1,0 +1,167 @@
+01/08/23 03:50:29 PM Tuesday - <module> - INFO : Launch app
+01/08/23 03:56:38 PM Tuesday - <module> - INFO : Launch app
+01/08/23 04:00:46 PM Tuesday - <module> - INFO : Launch app
+01/08/23 04:03:14 PM Tuesday - <module> - INFO : Launch app
+02/08/23 11:10:07 AM Wednesday - <module> - INFO : Launch app
+02/08/23 11:16:56 AM Wednesday - <module> - INFO : Launch app
+02/08/23 12:12:17 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:12:55 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:15:21 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:16:27 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:17:16 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:18:09 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:21:41 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:21:41 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:21:43 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:24:09 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:24:10 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:24:10 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:24:11 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:39:14 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:39:14 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_39_14.png
+02/08/23 12:39:14 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:39:15 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:39:16 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:39:17 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_39_16.png
+02/08/23 12:44:50 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:44:51 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_44_50.png
+02/08/23 12:44:51 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:44:51 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:44:53 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:44:53 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:44:55 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:44:55 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_44_55.png
+02/08/23 12:47:18 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:47:19 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_47_18.png
+02/08/23 12:47:19 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:47:19 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:47:21 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:47:22 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:47:23 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:47:25 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:47:26 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:47:26 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_47_26.png
+02/08/23 12:48:50 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:48:50 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_48_50.png
+02/08/23 12:48:50 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:48:50 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:48:52 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:48:54 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:48:55 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:48:56 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:48:58 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:48:59 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:49:00 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_48_59.png
+02/08/23 12:49:34 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:49:34 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_49_34.png
+02/08/23 12:49:35 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:49:35 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:49:36 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:49:37 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:49:39 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:49:40 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:49:41 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:49:43 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:49:43 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_49_43.png
+02/08/23 12:49:43 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:50:18 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:50:18 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_50_18.png
+02/08/23 12:50:19 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:50:19 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:50:20 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:50:21 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:50:23 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:50:24 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:50:26 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:50:27 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:50:28 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:50:28 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_50_28.png
+02/08/23 12:51:34 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:51:35 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_51_34.png
+02/08/23 12:51:35 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:51:35 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:51:37 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:51:37 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:51:39 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:51:40 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:51:42 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:51:43 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:51:44 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:51:44 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_51_44.png
+02/08/23 12:53:04 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:53:05 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_53_04.png
+02/08/23 12:53:05 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:53:05 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:53:08 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:53:09 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:53:10 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:53:11 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:53:13 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:53:14 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:53:14 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:53:15 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_53_14.png
+02/08/23 12:54:26 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:54:26 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_54_26.png
+02/08/23 12:54:27 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:54:27 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:54:29 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:54:30 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:54:31 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:54:32 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:54:34 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:54:35 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:54:36 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:54:36 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_54_36.png
+02/08/23 12:55:11 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:55:11 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_55_11.png
+02/08/23 12:55:12 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:55:12 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:55:13 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:55:14 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et3
+02/08/23 12:55:16 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:55:17 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et6
+02/08/23 12:55:18 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:55:20 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:55:20 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:55:21 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:55:22 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_55_21.png
+02/08/23 12:56:33 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:56:34 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_56_33.png
+02/08/23 12:56:34 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:56:59 PM Wednesday - __init__ - ERROR : unable to send text on Element not found with locator type: textwith locator value: Enter Name
+02/08/23 12:57:25 PM Wednesday - __init__ - ERROR : unable to send text on Element not found with locator type: textwith locator value: Enter Email
+02/08/23 12:57:30 PM Wednesday - __init__ - ERROR : unable to send text on Element not found with locator type: textwith locator value: Enter Address
+02/08/23 12:57:48 PM Wednesday - <module> - INFO : Launch app
+02/08/23 12:57:49 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_12_57_48.png
+02/08/23 12:57:49 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 12:57:49 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 12:57:50 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 12:57:52 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 12:57:53 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 12:57:54 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 12:57:55 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 12:57:55 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_12_57_55.png
+02/08/23 03:08:16 PM Wednesday - <module> - INFO : Launch app
+02/08/23 03:08:16 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/App 02_08_23_15_08_16.png
+02/08/23 03:08:16 PM Wednesday - __init__ - INFO : Element with locator type: idwith locator value: com.code2lead.kwad:id/ContactUsis displayed
+02/08/23 03:08:16 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+02/08/23 03:08:18 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+02/08/23 03:08:19 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+02/08/23 03:08:20 PM Wednesday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+02/08/23 03:08:22 PM Wednesday - __init__ - INFO : send text on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Et7
+02/08/23 03:08:22 PM Wednesday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/Btn2
+02/08/23 03:08:23 PM Wednesday - __init__ - INFO : Screenshot save to path : ../screenshot/sec_ss 02_08_23_15_08_22.png
+07/08/23 12:29:41 PM Monday - <module> - INFO : Launch app
+07/08/23 12:29:42 PM Monday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+07/08/23 12:29:44 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+07/08/23 12:29:45 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+07/08/23 12:29:46 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+07/08/23 12:30:12 PM Monday - __init__ - ERROR : unable to send text on Element not found with locator type: textwith locator value: Enter Name
+07/08/23 12:30:12 PM Monday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: SUBMIT
+07/08/23 12:31:18 PM Monday - <module> - INFO : Launch app
+07/08/23 12:31:19 PM Monday - __init__ - INFO : clicked on Element found with locator type: idwith locator value: com.code2lead.kwad:id/ContactUs
+07/08/23 12:31:20 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Name
+07/08/23 12:31:22 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Email
+07/08/23 12:31:23 PM Monday - __init__ - INFO : send text on Element found with locator type: textwith locator value: Enter Address
+07/08/23 12:31:24 PM Monday - __init__ - INFO : send text on Element found with locator type: indexwith locator value: 4
+07/08/23 12:31:25 PM Monday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: SUBMIT

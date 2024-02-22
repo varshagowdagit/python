@@ -1,0 +1,2 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:9 Chrome driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web Page Launched with URL : https://www.saucedemo.com/

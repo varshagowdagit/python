@@ -1,0 +1,9 @@
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value product_sort_container using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:86 Clicked on WebElement with locator value product_sort_container using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value product_sort_container using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value product_sort_container using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:156 Selected dropdown option 'Price (high to low)' with locator value product_sort_container using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value item_5_title_link using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:144 Scrolled to WebElement with locator value item_5_title_link using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElement found with locator value item_1_title_link using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:144 Scrolled to WebElement with locator value item_1_title_link using locatorType id

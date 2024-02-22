@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.11.4 on win32)" generated="20230710 15:19:24.687" rpa="false" schemaversion="4">
+<suite id="s1" name="File1" source="C:\Users\vs34\PycharmProjects\robotFramework\file1.robot">
+<test id="s1-t1" name="Validate Successful login" line="9">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>https://www.tutorialspoint.com/tutorialslibrary.htm</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230710 15:19:24.880" level="INFO">Opening browser 'chrome' to base url 'https://www.tutorialspoint.com/tutorialslibrary.htm'.</msg>
+<status status="PASS" starttime="20230710 15:19:24.880" endtime="20230710 15:19:52.382"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230710 15:19:57.383" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230710 15:19:52.383" endtime="20230710 15:19:57.383"/>
+</kw>
+<kw name="Click Link" library="SeleniumLibrary">
+<arg>link=Login</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<msg timestamp="20230710 15:19:57.384" level="INFO">Clicking link 'link=Login'.</msg>
+<status status="PASS" starttime="20230710 15:19:57.384" endtime="20230710 15:20:18.943"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>id=user_email</arg>
+<arg>varsha@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230710 15:20:18.946" level="INFO">Typing text 'varsha@gmail.com' into text field 'id=user_email'.</msg>
+<status status="PASS" starttime="20230710 15:20:18.944" endtime="20230710 15:20:19.033"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>id=user_password</arg>
+<arg>Varsha</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230710 15:20:19.033" level="INFO">Typing text 'Varsha' into text field 'id=user_password'.</msg>
+<status status="PASS" starttime="20230710 15:20:19.033" endtime="20230710 15:20:19.090"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>id= user_login</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20230710 15:20:19.090" level="INFO">Clicking button 'id= user_login'.</msg>
+<status status="PASS" starttime="20230710 15:20:19.090" endtime="20230710 15:20:40.728"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230710 15:20:45.731" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230710 15:20:40.730" endtime="20230710 15:20:45.731"/>
+</kw>
+<status status="PASS" starttime="20230710 15:19:24.880" endtime="20230710 15:20:45.732"/>
+</test>
+<doc>to valide login page</doc>
+<status status="PASS" starttime="20230710 15:19:24.703" endtime="20230710 15:20:45.733"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="File1">File1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

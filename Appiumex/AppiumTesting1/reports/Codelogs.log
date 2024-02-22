@@ -1,0 +1,44 @@
+11/08/23 12:42:24 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: searchis displayed
+11/08/23 12:42:24 PM Friday - __init__ - INFO : clicked on Element found with locator type: deswith locator value: search
+11/08/23 12:42:27 PM Friday - __init__ - INFO : send text on Element found with locator type: deswith locator value: search_default_search_text_input
+11/08/23 12:42:28 PM Friday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: Tshirts For Women
+11/08/23 12:43:07 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: searchis displayed
+11/08/23 12:43:07 PM Friday - __init__ - INFO : clicked on Element found with locator type: deswith locator value: search
+11/08/23 12:43:10 PM Friday - __init__ - INFO : send text on Element found with locator type: deswith locator value: search_default_search_text_input
+11/08/23 12:43:11 PM Friday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: Tshirts For Women
+11/08/23 12:43:52 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: searchis displayed
+11/08/23 12:43:53 PM Friday - __init__ - INFO : clicked on Element found with locator type: deswith locator value: search
+11/08/23 12:43:55 PM Friday - __init__ - INFO : send text on Element found with locator type: deswith locator value: search_default_search_text_input
+11/08/23 12:43:57 PM Friday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: Tshirts For Women
+11/08/23 12:45:31 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: searchis displayed
+11/08/23 12:45:31 PM Friday - __init__ - INFO : clicked on Element found with locator type: deswith locator value: search
+11/08/23 12:45:34 PM Friday - __init__ - INFO : send text on Element found with locator type: deswith locator value: search_default_search_text_input
+11/08/23 12:45:35 PM Friday - __init__ - INFO : clicked on Element found with locator type: textwith locator value: Tshirts For Women
+11/08/23 12:49:34 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: search is displayed
+11/08/23 12:49:34 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search
+11/08/23 12:49:36 PM Friday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+11/08/23 12:49:37 PM Friday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+11/08/23 12:57:54 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: search is displayed
+11/08/23 12:57:55 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search
+11/08/23 12:57:57 PM Friday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+11/08/23 12:57:59 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search_autosuggest_product_click_1
+11/08/23 03:30:12 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Filters
+11/08/23 03:30:38 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Color
+11/08/23 03:31:04 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Black
+11/08/23 03:31:10 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: APPLY
+11/08/23 03:35:48 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: search is displayed
+11/08/23 03:35:49 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search
+11/08/23 03:35:53 PM Friday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+11/08/23 03:35:55 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search_autosuggest_product_click_1
+11/08/23 03:36:57 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Filters
+11/08/23 03:37:23 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Color
+11/08/23 03:37:31 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Black
+11/08/23 03:37:31 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: APPLY
+11/08/23 03:40:17 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: id with locator value: 00000000-0000-00a2-ffff-ffff00000345
+11/08/23 03:40:44 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Color
+11/08/23 03:40:58 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: Black
+11/08/23 03:40:58 PM Friday - __init__ - ERROR : unable to click Element not found with locator type: text with locator value: APPLY
+11/08/23 04:10:33 PM Friday - __init__ - INFO : Element with locator type: deswith locator value: search is displayed
+11/08/23 04:10:34 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search
+11/08/23 04:10:37 PM Friday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+11/08/23 04:10:39 PM Friday - __init__ - INFO : clicked on Element found with locator type: des with locator value: search_autosuggest_product_click_1

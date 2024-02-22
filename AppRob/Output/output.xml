@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20231108 12:41:52.156" rpa="false" schemaversion="4">
+<suite id="s1" name="Open App" source="C:\Users\vs34\PycharmProjects\AppRob\Tests\Open_App.robot">
+<test id="s1-t1" name="testcase1" line="20">
+<kw name="Open Application" library="AppiumLibrary">
+<arg>http://localhost:4723/wd/hub</arg>
+<arg>platformName=Android</arg>
+<arg>platformVersion=11</arg>
+<arg>deviceName=emulator-5554</arg>
+<arg>appPackage=com.code2lead.kwad</arg>
+<arg>appActivity=com.code2lead.kwad.MainActivity</arg>
+<arg>automationName=Uiautomator2</arg>
+<doc>Opens a new application to given Appium server.
+Capabilities of appium server, Android and iOS,
+Please check https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/server-args.md
+| *Option*            | *Man.* | *Description*     |
+| remote_url          | Yes    | Appium server url |
+| alias               | no     | alias             |
+| strict_ssl          | No     | allows you to send commands to an invalid certificate host like a self-signed one. |</doc>
+<msg timestamp="20231108 12:41:53.313" level="TRACE">Arguments: [ 'http://localhost:4723/wd/hub' | platformName='Android' | platformVersion='11' | deviceName='emulator-5554' | appPackage='com.code2lead.kwad' | appActivity='com.code2lead.kwad.MainActivity' | automationName='Uiautomator2' ]</msg>
+<msg timestamp="20231108 12:41:53.317" level="DEBUG">POST http://localhost:4723/wd/hub/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"platformName": "Android", "appium:platformVersion": "11", "appium:deviceName": "emulator-5554", "appium:appPackage": "com.code2lead.kwad", "appium:appActivity": "com.code2lead.kwad.MainActivity", "appium:automationName": "Uiautomator2"}}}</msg>
+<msg timestamp="20231108 12:41:53.646" level="DEBUG">Starting new HTTP connection (1): localhost:4723</msg>
+<msg timestamp="20231108 12:42:33.815" level="DEBUG">http://localhost:4723 "POST /wd/hub/session HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:33.816" level="DEBUG">Remote response: status=200 | data={"value":{"capabilities":{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"Android","platformVersion":"11","deviceName":"emulator-5554","appPackage":"com.code2lead.kwad","appActivity":"com.code2lead.kwad.MainActivity","automationName":"Uiautomator2"},"platformName":"Android","platformVersion":"11","deviceName":"emulator-5554","appPackage":"com.code2lead.kwad","appActivity":"com.code2lead.kwad.MainActivity","automationName":"Uiautomator2","deviceUDID":"emulator-5554","deviceApiLevel":30,"deviceScreenSize":"1080x2280","deviceScreenDensity":440,"deviceModel":"sdk_gphone_x86","deviceManufacturer":"Google","pixelRatio":2.75,"statBarHeight":135,"viewportRect":{"left":0,"top":135,"width":1080,"height":1842}},"sessionId":"c1211ce9-c0f2-486c-b9c0-562a2e4da758"}} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '935', 'ETag': 'W/"3a7-oK5YeGkKQ8xpVd/AkJ8QAhOpDsc"', 'Date': 'Wed, 08 Nov 2023 07:12:33 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:33.817" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:33.828" level="DEBUG">Opened application with session id c1211ce9-c0f2-486c-b9c0-562a2e4da758</msg>
+<msg timestamp="20231108 12:42:33.829" level="TRACE">Return: 1</msg>
+<status status="PASS" starttime="20231108 12:41:53.312" endtime="20231108 12:42:33.829"/>
+</kw>
+<status status="PASS" starttime="20231108 12:41:53.310" endtime="20231108 12:42:33.837"/>
+</test>
+<test id="s1-t2" name="testcase2" line="22">
+<kw name="Wait Until Page Contains Element" library="AppiumLibrary">
+<arg>${check_enter_value_id}</arg>
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<msg timestamp="20231108 12:42:34.001" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/EnterValue' ]</msg>
+<msg timestamp="20231108 12:42:34.002" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/EnterValue"}</msg>
+<msg timestamp="20231108 12:42:34.609" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:34.610" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0017-ffff-ffff00000011","ELEMENT":"00000000-0000-0017-ffff-ffff00000011"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-6On6d2ov3/PbWetGGLDX7bxMon0"', 'Date': 'Wed, 08 Nov 2023 07:12:34 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:34.610" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:34.610" level="INFO">criteria is com.code2lead.kwad:id/EnterValue</msg>
+<msg timestamp="20231108 12:42:34.610" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:34.000" endtime="20231108 12:42:34.611"/>
+</kw>
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${check_enter_value_id}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:34.613" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/EnterValue' ]</msg>
+<msg timestamp="20231108 12:42:34.622" level="INFO">Clicking element 'com.code2lead.kwad:id/EnterValue'.</msg>
+<msg timestamp="20231108 12:42:34.623" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/EnterValue"}</msg>
+<msg timestamp="20231108 12:42:34.890" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:34.891" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0017-ffff-ffff00000011","ELEMENT":"00000000-0000-0017-ffff-ffff00000011"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-6On6d2ov3/PbWetGGLDX7bxMon0"', 'Date': 'Wed, 08 Nov 2023 07:12:34 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:34.891" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:34.892" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0017-ffff-ffff00000011/click {"id": "00000000-0000-0017-ffff-ffff00000011"}</msg>
+<msg timestamp="20231108 12:42:35.333" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0017-ffff-ffff00000011/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:35.334" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:35 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:35.334" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:35.334" level="INFO">criteria is com.code2lead.kwad:id/EnterValue</msg>
+<msg timestamp="20231108 12:42:35.335" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:34.612" endtime="20231108 12:42:35.335"/>
+</kw>
+<kw name="Wait Until Page Contains Element" library="AppiumLibrary">
+<arg>${enter_value}</arg>
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<msg timestamp="20231108 12:42:35.354" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Et1' ]</msg>
+<msg timestamp="20231108 12:42:35.356" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et1"}</msg>
+<msg timestamp="20231108 12:42:36.464" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:36.464" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:36 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:36.464" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:36.665" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et1"}</msg>
+<msg timestamp="20231108 12:42:37.357" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:37.358" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0018-ffff-ffff0000002d","ELEMENT":"00000000-0000-0018-ffff-ffff0000002d"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-y6rpmhJot2m6YXgAE5/nPDZwN8Y"', 'Date': 'Wed, 08 Nov 2023 07:12:37 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:37.358" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:37.359" level="INFO">criteria is com.code2lead.kwad:id/Et1
+criteria is com.code2lead.kwad:id/Et1</msg>
+<msg timestamp="20231108 12:42:37.359" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:35.351" endtime="20231108 12:42:37.359"/>
+</kw>
+<kw name="Input Text" library="AppiumLibrary">
+<arg>${enter_value}</arg>
+<arg>${text}</arg>
+<doc>Types the given `text` into text field identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:37.361" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Et1' | 'varsha' ]</msg>
+<msg timestamp="20231108 12:42:37.369" level="INFO">Typing text 'varsha' into text field 'com.code2lead.kwad:id/Et1'</msg>
+<msg timestamp="20231108 12:42:37.369" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et1"}</msg>
+<msg timestamp="20231108 12:42:37.870" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:37.870" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0018-ffff-ffff0000002d","ELEMENT":"00000000-0000-0018-ffff-ffff0000002d"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-y6rpmhJot2m6YXgAE5/nPDZwN8Y"', 'Date': 'Wed, 08 Nov 2023 07:12:37 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:37.871" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:37.872" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff0000002d/value {"text": "varsha", "value": ["v", "a", "r", "s", "h", "a"], "id": "00000000-0000-0018-ffff-ffff0000002d"}</msg>
+<msg timestamp="20231108 12:42:38.201" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff0000002d/value HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:38.202" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:38 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:38.202" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:38.203" level="INFO">criteria is com.code2lead.kwad:id/Et1</msg>
+<msg timestamp="20231108 12:42:38.203" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:37.360" endtime="20231108 12:42:38.203"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:33.987" endtime="20231108 12:42:38.206"/>
+</test>
+<test id="s1-t3" name="testcase3" line="28">
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${submit}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:38.212" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Btn1' ]</msg>
+<msg timestamp="20231108 12:42:38.222" level="INFO">Clicking element 'com.code2lead.kwad:id/Btn1'.</msg>
+<msg timestamp="20231108 12:42:38.223" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Btn1"}</msg>
+<msg timestamp="20231108 12:42:38.753" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:38.753" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0018-ffff-ffff0000002e","ELEMENT":"00000000-0000-0018-ffff-ffff0000002e"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-B/jwGpflS1BgvU0gF1Y2Tj/qM4Q"', 'Date': 'Wed, 08 Nov 2023 07:12:38 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:38.754" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:38.754" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff0000002e/click {"id": "00000000-0000-0018-ffff-ffff0000002e"}</msg>
+<msg timestamp="20231108 12:42:39.022" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff0000002e/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:39.023" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:39 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:39.024" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:39.024" level="INFO">criteria is com.code2lead.kwad:id/Btn1</msg>
+<msg timestamp="20231108 12:42:39.024" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:38.212" endtime="20231108 12:42:39.025"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:38.210" endtime="20231108 12:42:39.026"/>
+</test>
+<test id="s1-t4" name="testcase4" line="30">
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${back}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:39.033" level="TRACE">Arguments: [ '//android.widget.ImageButton[@content-desc="Navigate up"]' ]</msg>
+<msg timestamp="20231108 12:42:39.046" level="INFO">Clicking element '//android.widget.ImageButton[@content-desc="Navigate up"]'.</msg>
+<msg timestamp="20231108 12:42:39.049" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "xpath", "value": "//android.widget.ImageButton[@content-desc=\"Navigate up\"]"}</msg>
+<msg timestamp="20231108 12:42:41.847" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:41.848" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0018-ffff-ffff00000033","ELEMENT":"00000000-0000-0018-ffff-ffff00000033"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-g8Kv87AUpZ1Ym8XkH2yuGcOJbNQ"', 'Date': 'Wed, 08 Nov 2023 07:12:41 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:41.848" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:41.849" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff00000033/click {"id": "00000000-0000-0018-ffff-ffff00000033"}</msg>
+<msg timestamp="20231108 12:42:42.072" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0018-ffff-ffff00000033/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:42.073" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:42 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:42.073" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:42.074" level="INFO">xpath criteria: //android.widget.ImageButton[@content-desc="Navigate up"]</msg>
+<msg timestamp="20231108 12:42:42.074" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:39.032" endtime="20231108 12:42:42.074"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:39.030" endtime="20231108 12:42:42.075"/>
+</test>
+<test id="s1-t5" name="testcase5" line="32">
+<kw name="Wait Until Page Contains Element" library="AppiumLibrary">
+<arg>${login}</arg>
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<msg timestamp="20231108 12:42:42.082" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Login' ]</msg>
+<msg timestamp="20231108 12:42:42.083" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Login"}</msg>
+<msg timestamp="20231108 12:42:43.304" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:43.305" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:43 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:43.306" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:43.507" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Login"}</msg>
+<msg timestamp="20231108 12:42:44.251" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:44.252" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0017-ffff-ffff00000016","ELEMENT":"00000000-0000-0017-ffff-ffff00000016"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-WgEMCKT2Rszz2QcgJizKRJa7R4Y"', 'Date': 'Wed, 08 Nov 2023 07:12:44 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:44.253" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:44.253" level="INFO">criteria is com.code2lead.kwad:id/Login
+criteria is com.code2lead.kwad:id/Login</msg>
+<msg timestamp="20231108 12:42:44.253" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:42.081" endtime="20231108 12:42:44.253"/>
+</kw>
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${login}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:44.256" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Login' ]</msg>
+<msg timestamp="20231108 12:42:44.261" level="INFO">Clicking element 'com.code2lead.kwad:id/Login'.</msg>
+<msg timestamp="20231108 12:42:44.262" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Login"}</msg>
+<msg timestamp="20231108 12:42:44.764" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:44.765" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0017-ffff-ffff00000016","ELEMENT":"00000000-0000-0017-ffff-ffff00000016"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-WgEMCKT2Rszz2QcgJizKRJa7R4Y"', 'Date': 'Wed, 08 Nov 2023 07:12:44 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:44.765" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:44.766" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0017-ffff-ffff00000016/click {"id": "00000000-0000-0017-ffff-ffff00000016"}</msg>
+<msg timestamp="20231108 12:42:45.022" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0017-ffff-ffff00000016/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:45.023" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:44 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:45.024" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:45.024" level="INFO">criteria is com.code2lead.kwad:id/Login</msg>
+<msg timestamp="20231108 12:42:45.025" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:44.255" endtime="20231108 12:42:45.025"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:42.079" endtime="20231108 12:42:45.027"/>
+</test>
+<test id="s1-t6" name="testcase6" line="35">
+<kw name="Wait Until Page Contains Element" library="AppiumLibrary">
+<arg>${enter_email}</arg>
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<msg timestamp="20231108 12:42:45.034" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Et4' ]</msg>
+<msg timestamp="20231108 12:42:45.035" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et4"}</msg>
+<msg timestamp="20231108 12:42:45.429" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:45.430" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:45 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:45.431" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:45.632" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et4"}</msg>
+<msg timestamp="20231108 12:42:46.259" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:46.260" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:46 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:46.260" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:46.461" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et4"}</msg>
+<msg timestamp="20231108 12:42:46.972" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:46.973" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000041","ELEMENT":"00000000-0000-0019-ffff-ffff00000041"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-+wttzvqphOaw1xjdz9B/LWcCcfk"', 'Date': 'Wed, 08 Nov 2023 07:12:46 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:46.973" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:46.973" level="INFO">criteria is com.code2lead.kwad:id/Et4
+criteria is com.code2lead.kwad:id/Et4
+criteria is com.code2lead.kwad:id/Et4</msg>
+<msg timestamp="20231108 12:42:46.974" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:45.033" endtime="20231108 12:42:46.974"/>
+</kw>
+<kw name="Input Text" library="AppiumLibrary">
+<arg>${enter_email}</arg>
+<arg>${email_id}</arg>
+<doc>Types the given `text` into text field identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:46.976" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Et4' | 'admin@gmail.com' ]</msg>
+<msg timestamp="20231108 12:42:46.985" level="INFO">Typing text 'admin@gmail.com' into text field 'com.code2lead.kwad:id/Et4'</msg>
+<msg timestamp="20231108 12:42:46.985" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et4"}</msg>
+<msg timestamp="20231108 12:42:47.127" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:47.127" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000041","ELEMENT":"00000000-0000-0019-ffff-ffff00000041"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-+wttzvqphOaw1xjdz9B/LWcCcfk"', 'Date': 'Wed, 08 Nov 2023 07:12:47 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:47.128" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:47.128" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000041/value {"text": "admin@gmail.com", "value": ["a", "d", "m", "i", "n", "@", "g", "m", "a", "i", "l", ".", "c", "o", "m"], "id": "00000000-0000-0019-ffff-ffff00000041"}</msg>
+<msg timestamp="20231108 12:42:47.855" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000041/value HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:47.856" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:47 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:47.856" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:47.857" level="INFO">criteria is com.code2lead.kwad:id/Et4</msg>
+<msg timestamp="20231108 12:42:47.857" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:46.975" endtime="20231108 12:42:47.857"/>
+</kw>
+<kw name="Input Text" library="AppiumLibrary">
+<arg>${enter_password}</arg>
+<arg>${password}</arg>
+<doc>Types the given `text` into text field identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:47.860" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Et5' | 'admin123' ]</msg>
+<msg timestamp="20231108 12:42:47.866" level="INFO">Typing text 'admin123' into text field 'com.code2lead.kwad:id/Et5'</msg>
+<msg timestamp="20231108 12:42:47.866" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Et5"}</msg>
+<msg timestamp="20231108 12:42:48.399" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:48.399" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000042","ELEMENT":"00000000-0000-0019-ffff-ffff00000042"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-j1Agc327GtxtvmZnTU02YBjmFno"', 'Date': 'Wed, 08 Nov 2023 07:12:48 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:48.400" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:48.400" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000042/value {"text": "admin123", "value": ["a", "d", "m", "i", "n", "1", "2", "3"], "id": "00000000-0000-0019-ffff-ffff00000042"}</msg>
+<msg timestamp="20231108 12:42:49.115" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000042/value HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:49.115" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:49 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:49.116" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:49.117" level="INFO">criteria is com.code2lead.kwad:id/Et5</msg>
+<msg timestamp="20231108 12:42:49.117" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:47.859" endtime="20231108 12:42:49.118"/>
+</kw>
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${click_login}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:49.122" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Btn3' ]</msg>
+<msg timestamp="20231108 12:42:49.132" level="INFO">Clicking element 'com.code2lead.kwad:id/Btn3'.</msg>
+<msg timestamp="20231108 12:42:49.132" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Btn3"}</msg>
+<msg timestamp="20231108 12:42:49.628" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:49.629" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000043","ELEMENT":"00000000-0000-0019-ffff-ffff00000043"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-/0YImlg+Tkmxkim/TaKOl0DoYjE"', 'Date': 'Wed, 08 Nov 2023 07:12:49 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:49.629" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:49.630" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000043/click {"id": "00000000-0000-0019-ffff-ffff00000043"}</msg>
+<msg timestamp="20231108 12:42:49.856" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-0019-ffff-ffff00000043/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:49.857" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:49 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:49.858" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:49.858" level="INFO">criteria is com.code2lead.kwad:id/Btn3</msg>
+<msg timestamp="20231108 12:42:49.858" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:49.122" endtime="20231108 12:42:49.859"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:45.031" endtime="20231108 12:42:49.862"/>
+</test>
+<test id="s1-t7" name="testcase7" line="40">
+<kw name="Wait Until Page Contains Element" library="AppiumLibrary">
+<arg>${enter_admin}</arg>
+<doc>Waits until element specified with `locator` appears on current page.</doc>
+<msg timestamp="20231108 12:42:49.870" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Edt_admin' ]</msg>
+<msg timestamp="20231108 12:42:49.872" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Edt_admin"}</msg>
+<msg timestamp="20231108 12:42:50.666" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:50.667" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:50 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:50.668" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:50.870" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Edt_admin"}</msg>
+<msg timestamp="20231108 12:42:51.647" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:51.648" level="DEBUG">Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '12', 'ETag': 'W/"c-ct3goOI+b+kRZv2R9j2fTtMXwkk"', 'Date': 'Wed, 08 Nov 2023 07:12:51 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:51.648" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:51.850" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Edt_admin"}</msg>
+<msg timestamp="20231108 12:42:52.255" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:52.256" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-001b-ffff-ffff00000059","ELEMENT":"00000000-0000-001b-ffff-ffff00000059"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-yomtPzjCc781kqKl7mWIXj7K/sM"', 'Date': 'Wed, 08 Nov 2023 07:12:52 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:52.257" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:52.257" level="INFO">criteria is com.code2lead.kwad:id/Edt_admin
+criteria is com.code2lead.kwad:id/Edt_admin
+criteria is com.code2lead.kwad:id/Edt_admin</msg>
+<msg timestamp="20231108 12:42:52.257" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:49.869" endtime="20231108 12:42:52.257"/>
+</kw>
+<kw name="Input Text" library="AppiumLibrary">
+<arg>${enter_admin}</arg>
+<arg>${admin}</arg>
+<doc>Types the given `text` into text field identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:52.260" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Edt_admin' | 'varsha' ]</msg>
+<msg timestamp="20231108 12:42:52.266" level="INFO">Typing text 'varsha' into text field 'com.code2lead.kwad:id/Edt_admin'</msg>
+<msg timestamp="20231108 12:42:52.267" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Edt_admin"}</msg>
+<msg timestamp="20231108 12:42:52.392" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:52.392" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-001b-ffff-ffff00000059","ELEMENT":"00000000-0000-001b-ffff-ffff00000059"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-yomtPzjCc781kqKl7mWIXj7K/sM"', 'Date': 'Wed, 08 Nov 2023 07:12:52 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:52.393" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:52.393" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-001b-ffff-ffff00000059/value {"text": "varsha", "value": ["v", "a", "r", "s", "h", "a"], "id": "00000000-0000-001b-ffff-ffff00000059"}</msg>
+<msg timestamp="20231108 12:42:53.086" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-001b-ffff-ffff00000059/value HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:53.088" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:53 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:53.090" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:53.090" level="INFO">criteria is com.code2lead.kwad:id/Edt_admin</msg>
+<msg timestamp="20231108 12:42:53.090" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:52.259" endtime="20231108 12:42:53.090"/>
+</kw>
+<kw name="Click Element" library="AppiumLibrary">
+<arg>${admin_submit}</arg>
+<doc>Click element identified by `locator`.</doc>
+<msg timestamp="20231108 12:42:53.092" level="TRACE">Arguments: [ 'com.code2lead.kwad:id/Btn_admin_sub' ]</msg>
+<msg timestamp="20231108 12:42:53.098" level="INFO">Clicking element 'com.code2lead.kwad:id/Btn_admin_sub'.</msg>
+<msg timestamp="20231108 12:42:53.098" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements {"using": "id", "value": "com.code2lead.kwad:id/Btn_admin_sub"}</msg>
+<msg timestamp="20231108 12:42:53.769" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/elements HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:53.769" level="DEBUG">Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"00000000-0000-001b-ffff-ffff0000005a","ELEMENT":"00000000-0000-001b-ffff-ffff0000005a"}]} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '139', 'ETag': 'W/"8b-BXOyT2ms+oq4ZE6o5pOCegb6r6A"', 'Date': 'Wed, 08 Nov 2023 07:12:53 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:53.771" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:53.771" level="DEBUG">POST http://localhost:4723/wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-001b-ffff-ffff0000005a/click {"id": "00000000-0000-001b-ffff-ffff0000005a"}</msg>
+<msg timestamp="20231108 12:42:54.145" level="DEBUG">http://localhost:4723 "POST /wd/hub/session/c1211ce9-c0f2-486c-b9c0-562a2e4da758/element/00000000-0000-001b-ffff-ffff0000005a/click HTTP/1.1" 200 0</msg>
+<msg timestamp="20231108 12:42:54.146" level="DEBUG">Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'X-Powered-By': 'Express', 'Vary': 'X-HTTP-Method-Override', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '14', 'ETag': 'W/"e-9/1BuKMgFObM1mWJm+YjxtXJnUM"', 'Date': 'Wed, 08 Nov 2023 07:12:54 GMT', 'Connection': 'keep-alive', 'Keep-Alive': 'timeout=600'})</msg>
+<msg timestamp="20231108 12:42:54.146" level="DEBUG">Finished Request</msg>
+<msg timestamp="20231108 12:42:54.147" level="INFO">criteria is com.code2lead.kwad:id/Btn_admin_sub</msg>
+<msg timestamp="20231108 12:42:54.147" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231108 12:42:53.091" endtime="20231108 12:42:54.147"/>
+</kw>
+<status status="PASS" starttime="20231108 12:42:49.867" endtime="20231108 12:42:54.149"/>
+</test>
+<status status="PASS" starttime="20231108 12:41:52.164" endtime="20231108 12:42:54.155"/>
+</suite>
+<statistics>
+<total>
+<stat pass="7" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="7" fail="0" skip="0" id="s1" name="Open App">Open App</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

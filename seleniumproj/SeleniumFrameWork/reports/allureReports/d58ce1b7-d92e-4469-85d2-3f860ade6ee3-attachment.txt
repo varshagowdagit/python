@@ -1,0 +1,2 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value onetrust-accept-btn-handler using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value onetrust-accept-btn-handler using locatorType id

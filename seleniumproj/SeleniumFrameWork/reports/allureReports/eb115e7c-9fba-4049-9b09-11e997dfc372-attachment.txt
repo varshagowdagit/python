@@ -1,0 +1,4 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:9 Chrome driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web Page Launched with URL : https://www.saucedemo.com/
+[31m[1mERROR   [0m BaseClass:BasePage.py:75 WebElement not found with locator value react-burger-menu-btn using locatorType id
+[31m[1mERROR   [0m BaseClass:BasePage.py:90 Unable to Click on WebElement with locator value react-burger-menu-btn using locatorType id

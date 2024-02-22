@@ -1,0 +1,1 @@
+[32mINFO    [0m __init__:base_page.py:107 clicked on Element found with locator type: des with locator value: notification

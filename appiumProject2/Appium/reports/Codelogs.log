@@ -1,0 +1,387 @@
+31/08/23 03:06:45 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:07:11 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:07:11 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:07:14 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:07:14 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:07:17 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:07:17 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:07:17 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:07:18 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:07:18 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:07:18 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:07:18 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:07:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:07:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:07:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:07:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:07:21 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:07:21 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:07:21 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:07:21 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:07:32 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:40 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_07_38.png
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:07:44 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:10:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:11:19 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:11:19 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:11:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:11:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:11:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:11:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:11:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:11:28 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:11:28 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:11:28 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:11:28 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:11:29 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:11:29 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:11:29 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:11:29 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:11:30 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:11:30 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:11:30 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:11:30 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:11:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:52 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:55 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:11:59 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:13:34 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:14:01 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:14:01 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:14:01 PM Thursday - __init__ - INFO : Locator value Tshirts For Women not found
+31/08/23 03:14:01 PM Thursday - __init__ - INFO : Locator value Tshirts For Women not found
+31/08/23 03:14:27 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:14:27 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:14:27 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:14:35 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:14:35 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:14:35 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:14:35 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:14:36 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:14:36 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:14:36 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:14:36 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:14:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:14:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:14:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:14:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:14:50 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:00 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_14_58.png
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:06 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:15:07 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:18:25 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:18:57 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:18:57 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:19:24 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:19:24 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:19:24 PM Thursday - __init__ - ERROR : WebDriver error occurred while waiting for element: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\vs34\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\vs34\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+31/08/23 03:19:40 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:19:40 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:19:40 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:19:40 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:19:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:19:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:19:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:19:42 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:19:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:19:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:19:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:19:43 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:19:47 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:54 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_19_52.png
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:56 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:19:57 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:20:41 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:21:06 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:21:06 PM Thursday - __init__ - INFO : send text on Element found with locator type: des with locator value: search_default_search_text_input
+31/08/23 03:21:09 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:21:09 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Tshirts For Women
+31/08/23 03:21:12 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:21:12 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:21:12 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: FILTER
+31/08/23 03:21:13 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:21:13 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:21:13 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:21:13 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Color
+31/08/23 03:21:15 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:21:15 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:21:15 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:21:15 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Black
+31/08/23 03:21:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:21:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:21:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:21:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: APPLY
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : scrolling is started
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:21:27 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Bonkers Corner
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:36 PM Thursday - __init__ - INFO : Screenshot saved to path: ../screenshots/product 31_08_23_15_21_33.png
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:37 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: ADD TO BAG
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: L
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:21:38 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (363, 1418)
+31/08/23 03:22:44 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Hot Trends
+31/08/23 03:22:44 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Hot Trends
+31/08/23 03:23:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Everyday
+31/08/23 03:23:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Everyday
+31/08/23 03:23:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Everyday
+31/08/23 03:23:16 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Everyday
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:20 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Luxe
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:22 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Profile
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:25 PM Thursday - __init__ - INFO : clicked on Element found with locator type: text with locator value: Home
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : clicked on Element found with locator type: des with locator value: notification
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)
+31/08/23 03:23:26 PM Thursday - __init__ - INFO : Tap gesture performed at coordinates: (341, 297)

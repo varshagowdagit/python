@@ -1,0 +1,2 @@
+[32mINFO    [0m __init__:base_page.py:134 send text on Element found with locator type: des with locator value: search_default_search_text_input
+[32mINFO    [0m __init__:base_page.py:107 clicked on Element found with locator type: text with locator value: Tshirts For Women

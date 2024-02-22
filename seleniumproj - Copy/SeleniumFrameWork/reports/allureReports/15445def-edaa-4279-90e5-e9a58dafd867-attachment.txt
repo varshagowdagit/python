@@ -1,0 +1,4 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:9 Chrome driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web Page Launched with URL : https://www.saucedemo.com/
+[31m[1mERROR   [0m BaseClass:BasePage.py:75 WebElement not found with locator value //*[@id="login_button_container"]/div/form/div[3]/h3 using locatorType xpath
+[31m[1mERROR   [0m BaseClass:BasePage.py:133 WebElement is not Displayed on web page with locator value //*[@id="login_button_container"]/div/form/div[3]/h3 using locatorType xpath

@@ -1,0 +1,4 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:9 Chrome driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web Page Launched with URL : https://www.saucedemo.com/
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value login_button_container using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:130 WebElement is Displayed on web page with locator value login_button_container using locatorType id

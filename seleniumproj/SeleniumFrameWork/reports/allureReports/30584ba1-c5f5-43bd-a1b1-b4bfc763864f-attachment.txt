@@ -1,0 +1,26 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value user-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text standard_user in WebElement with locator value user-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value password using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text secret_sauce in WebElement with locator value password using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value login-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value login-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value add-to-cart-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value add-to-cart-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value shopping_cart_link using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value shopping_cart_link using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value checkout using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value checkout using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value first-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text Robart in WebElement with locator value first-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value last-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text junior in WebElement with locator value last-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value postal-code using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value postal-code using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value postal-code using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text 560055 in WebElement with locator value postal-code using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value continue using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:145 Scrolled to WebElement with locator value continue using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value continue using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value continue using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value finish using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value finish using locatorType id

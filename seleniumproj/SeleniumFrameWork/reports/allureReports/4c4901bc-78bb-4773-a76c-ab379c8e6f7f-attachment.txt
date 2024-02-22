@@ -1,0 +1,2 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value bm-burger-button using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value bm-burger-button using locatorType class

@@ -1,0 +1,2 @@
+[32mINFO    [0m __init__:base_page.py:206 scrolling is started
+[32mINFO    [0m __init__:base_page.py:107 clicked on Element found with locator type: text with locator value: Bonkers Corner

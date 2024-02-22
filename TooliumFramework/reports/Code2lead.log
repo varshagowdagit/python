@@ -1,0 +1,11 @@
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : WebElement found with locator value user-name using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value user-name using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : WebElement found with locator value user-name using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Sent the text standard_user in WebElement with locator value user-name using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : WebElement found with locator value password using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value password using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : WebElement found with locator value password using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Sent the text secret_sauce in WebElement with locator value password using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : WebElement found with locator value login-button using locatorType id
+17/01/24 05:16:50 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value login-button using locatorType id

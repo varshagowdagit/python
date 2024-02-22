@@ -1,0 +1,6 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value user-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text monalisa in WebElement with locator value user-name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value password using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the text monalisa@123 in WebElement with locator value password using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value login-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value login-button using locatorType id

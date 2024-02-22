@@ -1,0 +1,14 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value shopping_cart_link using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value shopping_cart_link using locatorType class
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value remove-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value remove-sauce-labs-backpack using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value remove-sauce-labs-bike-light using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value remove-sauce-labs-bike-light using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value remove-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value remove-sauce-labs-bolt-t-shirt using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value remove-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value remove-sauce-labs-fleece-jacket using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value continue-shopping using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:130 WebElement is Displayed on web page with locator value continue-shopping using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value continue-shopping using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value continue-shopping using locatorType id

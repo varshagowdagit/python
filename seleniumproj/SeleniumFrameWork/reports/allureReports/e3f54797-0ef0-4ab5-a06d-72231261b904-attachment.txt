@@ -1,0 +1,4 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value login-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value login-button using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value //*[@id="login_button_container"]/div/form/div[3] using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:130 WebElement is Displayed on web page with locator value //*[@id="login_button_container"]/div/form/div[3] using locatorType xpath

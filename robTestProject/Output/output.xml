@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20231129 15:58:30.976" rpa="false" schemaversion="4">
+<suite id="s1" name="Testcase1" source="C:\Users\vs34\PycharmProjects\robTestProject\Tests\testcase1.robot">
+<test id="s1-t1" name="TC1" line="12">
+<kw name="Log" library="BuiltIn">
+<arg>${My_var}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20231129 15:58:31.086" level="TRACE">Arguments: [ 'This is my variable' ]</msg>
+<msg timestamp="20231129 15:58:31.087" level="INFO">This is my variable</msg>
+<msg timestamp="20231129 15:58:31.087" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231129 15:58:31.085" endtime="20231129 15:58:31.087"/>
+</kw>
+<status status="PASS" starttime="20231129 15:58:31.084" endtime="20231129 15:58:31.088"/>
+</test>
+<test id="s1-t2" name="TC2" line="14">
+<kw name="Log" library="BuiltIn">
+<arg>${list}[1]</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20231129 15:58:31.096" level="TRACE">Arguments: [ 'list2' ]</msg>
+<msg timestamp="20231129 15:58:31.096" level="INFO">list2</msg>
+<msg timestamp="20231129 15:58:31.097" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231129 15:58:31.095" endtime="20231129 15:58:31.097"/>
+</kw>
+<status status="PASS" starttime="20231129 15:58:31.092" endtime="20231129 15:58:31.098"/>
+</test>
+<test id="s1-t3" name="TC3" line="16">
+<kw name="Log" library="BuiltIn">
+<arg>${DICTIONARY}[username]</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20231129 15:58:31.103" level="TRACE">Arguments: [ 'varsha' ]</msg>
+<msg timestamp="20231129 15:58:31.103" level="INFO">varsha</msg>
+<msg timestamp="20231129 15:58:31.104" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231129 15:58:31.102" endtime="20231129 15:58:31.104"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${DICTIONARY}[password]</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20231129 15:58:31.106" level="TRACE">Arguments: [ '123' ]</msg>
+<msg timestamp="20231129 15:58:31.106" level="INFO">123</msg>
+<msg timestamp="20231129 15:58:31.106" level="TRACE">Return: None</msg>
+<status status="PASS" starttime="20231129 15:58:31.105" endtime="20231129 15:58:31.106"/>
+</kw>
+<status status="PASS" starttime="20231129 15:58:31.101" endtime="20231129 15:58:31.108"/>
+</test>
+<status status="PASS" starttime="20231129 15:58:30.983" endtime="20231129 15:58:31.112"/>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="3" fail="0" skip="0" id="s1" name="Testcase1">Testcase1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

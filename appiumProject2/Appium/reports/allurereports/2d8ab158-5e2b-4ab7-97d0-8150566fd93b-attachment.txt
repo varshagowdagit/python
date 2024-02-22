@@ -1,0 +1,1 @@
+[32mINFO    [0m __init__:base_page.py:185 Screenshot saved to path: ../screenshots/product 31_08_23_15_11_49.png

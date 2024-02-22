@@ -1,0 +1,1 @@
+[32mINFO    [0m __init__:BasePage.py:67 clicked on Element found with locator type: text with locator value: FILTER

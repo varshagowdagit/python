@@ -1,0 +1,2 @@
+WARNING  selenium.webdriver.common.driver_finder:driver_finder.py:42 Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\vs34\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered

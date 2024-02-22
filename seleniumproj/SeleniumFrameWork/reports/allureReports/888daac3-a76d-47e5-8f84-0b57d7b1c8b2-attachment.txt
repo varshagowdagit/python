@@ -1,0 +1,4 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value react-burger-menu-btn using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value react-burger-menu-btn using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value logout_sidebar_link using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:87 Clicked on WebElement with locator value logout_sidebar_link using locatorType id
